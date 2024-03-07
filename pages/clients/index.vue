@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div>clients</div>
-  <nuxt-link to="/products">Link</nuxt-link>
+    <div>Clients</div>
+  <nuxt-link to="/categories">Link Categories</nuxt-link>
   </div>
 </template>
